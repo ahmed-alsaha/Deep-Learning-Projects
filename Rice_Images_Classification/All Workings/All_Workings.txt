@@ -1,0 +1,1 @@
+https://www.kaggle.com/code/ahmedalsaha/rice-images-classification-vgg19-accuracy-100
